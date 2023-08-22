@@ -4,6 +4,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Project Screenshot
 ![Project Screenshot](https://github.com/RinkuAppstechy/images/blob/main/weatherAppImage.png)
+
+## Project Requirements
+Front-end - Angular
+Node version - 18.12.0  
+API testing tool - Postman 
+API service used - RapidAPI  
+Package manager command used - npm 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
