@@ -6,11 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![Project Screenshot](https://github.com/RinkuAppstechy/images/blob/main/weatherAppImage.png)
 
 ## Project Requirements
-Front-end - Angular
-Node version - 18.12.0  
-API testing tool - Postman 
-API service used - RapidAPI    
-Package manager command used - npm 
+Front-end - Angular  
+Node version - 18.12.0    
+API testing tool - Postman   
+API service used - RapidAPI      
+Package manager command used - npm   
 
 ## Development server
 
